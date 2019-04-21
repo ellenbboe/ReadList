@@ -1,4 +1,5 @@
 # ReadList
+## 小说
 :laughing: 做一个文学青年,培养自己的忧郁文学气质,开个玩笑(溜了溜了)
 
 书名  |作者|我的一些想法  |状态
@@ -22,7 +23,7 @@
 鼠疫  |加缪   |还没想法   |正在看
 
 
-技术书籍
+## 技术书籍
 书名|作者|状态
 --|---|--|--
-java核心技术 卷一|Cay S. Horstmann,Gary Cornell|未读
+《Java 核心技术卷 1+卷 2》|Cay S. Horstmann,Gary Cornell|未读
